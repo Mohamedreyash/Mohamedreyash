@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/reyashmohamed" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="reyashmohamed" height="30" width="40" /></a>
 <a href="https://instagram.com/reyash_mohamed_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="reyash_mohamed_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/reyashmohamed786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="reyashmohamed786" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/reyashmohamed786" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="reyashmohamed786" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
